@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practical02 Shuqri</string>
+    <string name="hello_world">Hello World</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="follow">FOLLOW</string>
+    <string name="message">MESSAGE</string>
+</resources>
